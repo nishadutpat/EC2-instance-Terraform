@@ -12,7 +12,7 @@ Steps to Use This Repository
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 
-2. Initialize Terraform
+2. Initialize Terraform:
    terraform init
 
 3. Update Variables (if applicable)
