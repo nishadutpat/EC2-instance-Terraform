@@ -22,8 +22,8 @@ Replace ami with a valid AMI ID in your AWS region.
 Replace subnet_id with a valid subnet ID in your VPC.
 Ensure the key_name matches your AWS key pair.
 
-4. Initalise the Terraform
-    terraform inti
+4. Initalise the Terraform :
+    terraform int
 
 6. Plan the Deployment
 Preview the changes Terraform will apply:
