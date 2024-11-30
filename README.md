@@ -33,6 +33,6 @@ Trraform plan
 Provision the EC2 instance:
 terraform apply
 
-7. IN ORDER TO TERMINATE EC2:
+7. In order to terminate EC2:
    terraform destroy 
 
